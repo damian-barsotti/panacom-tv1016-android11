@@ -2,6 +2,8 @@
 
 Tutorial to replace the firmware of the **Panacom TV-1016** (SoC **Amlogic S905W2**, 2 GB RAM, 16 GB eMMC) with **Android 11**, and get the **original IR remote control** working with all of its keys, including the mouse-mode button.
 
+![Panacom TV-1016](panacom-tv1016.png)
+
 > **Warning**
 > This procedure wipes the device and modifies system partitions. There is a risk of bricking the device if something goes wrong. Do it at your own risk. Always keep the original boot image and the full firmware so you can recover with the USB Burning Tool.
 
